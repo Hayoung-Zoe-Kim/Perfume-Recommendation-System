@@ -36,13 +36,24 @@ Initially, we extracted perfume reviews through web scraping. We then selected l
 #### Identifying the Long Tail: The System's Unique Feature
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/LongTail_Graph.png)
 
-## Conclusion
-#### Recommendation System Demonstration
+## Demonstration of the Recommendation System
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/System_Demonstration.png)
 
-#### 
+## Conclusion
+- The Word2Vec model facilitated a nuanced understanding of user preferences, connecting scent descriptions and review texts with user sentiments to create a personalized recommendation experience.
+  
+- The dual-phase approach of the project shed light on a compelling aspect of the fragrance market: While the allure of obscure brands is undeniable for certain attributes, it is remarkable to observe that many affordable yet desirable perfumes originate from well-known houses. This suggests a complex interplay between brand perception and product quality, highlighting an opportunity for small to medium fragrance businesses to capitalize on their unique offerings.
+
+- The value of our Long-Tail Perfume Recommendation System is that by bridging the gap between accessibility and exploration, it stands as a beacon for discovery in the vast ocean of fragrances, guiding consumers to their perfect scent match while supporting the growth of diverse perfume brands.
 
 ## Applicable Business Use Cases for The Long-Tail Recommendation System:
 
+#### Niche Market Targeting:
+Boutique Retailers can use the system to stock inventory that aligns with the unique preferences of their customer base, helping them to differentiate from larger competitors.
 
+#### Brand Development: 
+Emerging and indie fragrance brands can use insights from the system to position their products in the market effectively, focusing on untapped customer segments. Also, the system can help identify scent preferences and trends, which can be used to inform marketing campaigns and product development strategies.
+
+#### Inventory Management:
+Retailers can use the system's insights to optimize their inventory, reducing stock of less popular items and focusing on what their customers are most likely to purchase. Moreover, insights from the recommendation system can assist in predicting future trends and demand for certain fragrances, aiding in production planning and inventory forecasting.
 
