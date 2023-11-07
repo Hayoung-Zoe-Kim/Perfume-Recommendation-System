@@ -49,11 +49,11 @@ Initially, we extracted perfume reviews through web scraping. We then selected l
 ## Applicable Business Use Cases for The Long-Tail Recommendation System:
 
 #### Niche Market Targeting:
-Boutique Retailers can use the system to stock inventory that aligns with the unique preferences of their customer base, helping them to differentiate from larger competitors.
+- Boutique Retailers can use the system to stock inventory that aligns with the unique preferences of their customer base, helping them to differentiate from larger competitors.
 
 #### Brand Development: 
-Emerging and indie fragrance brands can use insights from the system to position their products in the market effectively, focusing on untapped customer segments. Also, the system can help identify scent preferences and trends, which can be used to inform marketing campaigns and product development strategies.
+- Emerging and indie fragrance brands can use insights from the system to position their products in the market effectively, focusing on untapped customer segments. Also, the system can help identify scent preferences and trends, which can be used to inform marketing campaigns and product development strategies.
 
 #### Inventory Management:
-Retailers can use the system's insights to optimize their inventory, reducing stock of less popular items and focusing on what their customers are most likely to purchase. Moreover, insights from the recommendation system can assist in predicting future trends and demand for certain fragrances, aiding in production planning and inventory forecasting.
+- Retailers can use the system's insights to optimize their inventory, reducing stock of less popular items and focusing on what their customers are most likely to purchase. Moreover, insights from the recommendation system can assist in predicting future trends and demand for certain fragrances, aiding in production planning and inventory forecasting.
 
