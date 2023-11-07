@@ -28,7 +28,7 @@ Initially, we extracted perfume reviews through web scraping. We then selected l
 #### Word Cloud
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/WordCloud.png)
 
-#### K-means Clustering
+#### K-means Clustering visualized by t-SNE
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/K-means_Clustering.png)
 #### MDS graph
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/MDS_graph.png)
@@ -36,10 +36,11 @@ Initially, we extracted perfume reviews through web scraping. We then selected l
 #### Identifying Long-Tail (System's Unique Point)
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/LongTail_Graph.png)
 
+## Conclusion
 #### Recommendation System Demonstration
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/System_Demonstration.png)
 
-## Conclusion
+#### 
 
 ## Applicable Business Use Cases for The Long-Tail Recommendation System:
 
