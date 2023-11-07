@@ -57,3 +57,5 @@ Initially, we extracted perfume reviews through web scraping. We then selected l
 #### Inventory Management:
 - Retailers can use the system's insights to optimize their inventory, reducing stock of less popular items and focusing on what their customers are most likely to purchase. Moreover, insights from the recommendation system can assist in predicting future trends and demand for certain fragrances, aiding in production planning and inventory forecasting.
 
+## More
+Full Code : https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/0_Final_Long%20Tail%20Perfume%20Recommendation%20System.ipynb
