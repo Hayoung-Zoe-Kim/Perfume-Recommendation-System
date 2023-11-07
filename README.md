@@ -33,7 +33,7 @@ Initially, we extracted perfume reviews through web scraping. We then selected l
 #### MDS graph
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/MDS_graph.png)
 
-#### Identifying Long-Tail (System's Unique Point)
+#### Identifying the Long Tail: The System's Unique Feature
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/LongTail_Graph.png)
 
 ## Conclusion
