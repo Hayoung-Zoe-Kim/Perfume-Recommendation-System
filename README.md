@@ -46,7 +46,7 @@ Initially, we extracted perfume reviews through web scraping. We then selected l
 
 - The value of our Long-Tail Perfume Recommendation System is that by bridging the gap between accessibility and exploration, it stands as a beacon for discovery in the vast ocean of fragrances, guiding consumers to their perfect scent match while supporting the growth of diverse perfume brands.
 
-## Applicable Business Use Cases for The Long-Tail Recommendation System:
+## ⭐️ Applicable Business Use Cases:
 
 #### Niche Market Targeting:
 - Boutique Retailers can use the system to stock inventory that aligns with the unique preferences of their customer base, helping them to differentiate from larger competitors.
