@@ -2,7 +2,7 @@
 
 Analysis -> https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/Analysis_Final.ipynb
 
-![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/assets/113167184/a491254c-950b-4e73-b4c6-6c394ecab58f)
+![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/blob/main/WordCloud.png)
 
 ![image](https://github.com/Hayoung-Zoe-Kim/Perfume-Recommendation-System/assets/113167184/9ca35e47-02da-475c-b3c6-e0505fc42b91)
 
